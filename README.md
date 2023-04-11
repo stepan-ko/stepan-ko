@@ -8,3 +8,4 @@ __TypeScript, React, Redux Toolkit, RTK Query:__
 
 __JavaScript, HTML, CSS:__
 - Ковертер типов данных (для АСУТП): https://github.com/stepan-ko/converter-bool-dec
+- Игра крестики-нолики с возможностью менять размерность поля: https://github.com/stepan-ko/tic-tac-toe
