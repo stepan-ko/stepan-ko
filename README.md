@@ -12,6 +12,6 @@ __JavaScript, HTML, CSS:__
 
 __C#, .NET, AvaloniaUI:__
 - Опыт работы C#, WindowsForm, Avalonia, NLog, NModbus, Entity Framework (EF), SQL-MariaDB, MongoDB.
-- WinForm: Программа для работы с проточными весами, обмен данными по ModbusTCP: https://github.com/stepan-ko/
-- Avalonia: Кроссплатформенная, модернизированная версия работы с проточными весами: https://github.com/stepan-ko/
+- WinForm: Программа для работы с проточными весами, обмен данными по ModbusTCP: [https://github.com/stepan-ko/](https://stepan-ko.github.io/ClientCompuWeigh/)
+- Avalonia: Кроссплатформенная, модернизированная версия работы с проточными весами: 
 
