@@ -15,7 +15,7 @@
 - **WinForms .NET**: симулятор работы ModbusTCP server‑устройств.  
   🔗 [Test ModbusTCP Slave](https://github.com/stepan-ko/TestModbusSlave)
 
-- **Avalonia**: кроссплатформенная модернизированная версия программы для работы с весами.
+- **Avalonia**: кроссплатформенная модернизированная версия программы для работы с весами.  
   🔗 [Client Weight](https://github.com/stepan-ko/ClientWeight)
   
 - **ASP.NET**: сервис распознавания госномеров.  
