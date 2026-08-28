@@ -9,10 +9,10 @@
 
 ## Опыт работы
 
-- **WinForms**: разработка программы для работы с проточными весами, обмен данными по ModbusTCP.  
+- **WinForms .NET Framework**: разработка программы для работы с проточными весами, обмен данными по ModbusTCP.  
   🔗 [Client CompuWeigh](https://stepan-ko.github.io/ClientCompuWeigh/)
 
-- **WinForms .NET**: симулятор работы ModbusTCP server‑устройств.  
+- **WinForms .NET Core**: симулятор работы ModbusTCP server‑устройств.  
   🔗 [Test ModbusTCP Slave](https://github.com/stepan-ko/TestModbusSlave)
 
 - **Avalonia**: кроссплатформенная модернизированная версия программы для работы с весами.  
@@ -26,4 +26,5 @@
 - NLog
 - NModbus
 - Entity Framework (EF)
+- CommunityToolkit.Mvvm
 
