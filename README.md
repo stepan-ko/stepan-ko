@@ -9,17 +9,13 @@
 
 ## Опыт работы
   
-- **ASP.NET**: сервис распознавания госномеров на видеопотоке, запись в БД.  
-  🔗 [Репозиторий проекта](https://github.com/stepan-ko/web)
+- [**ASP.NET сервис**](https://github.com/stepan-ko/web) распознавания госномеров на видеопотоке, запись в БД.  
   
-- **WinForms .NET Framework**: разработка программы для работы с проточными весами, обмен данными по ModbusTCP.  
-  🔗 [Client CompuWeigh](https://stepan-ko.github.io/ClientCompuWeigh/)
+- [**WindowsForm приложение**](https://stepan-ko.github.io/ClientCompuWeigh/) для работы с весами, обмен данными по ModbusTCP.  
 
-- **Avalonia**: кроссплатформенная модернизированная версия программы для работы с весами.  
-  🔗 [Client Weight](https://github.com/stepan-ko/ClientWeight)
+- [**Avalonia приложение**](https://github.com/stepan-ko/ClientWeight) кроссплатформенная модернизированная версия программы для работы с весами.  
 
-- **WinForms .NET Core**: симулятор работы ModbusTCP server‑устройств.  
-  🔗 [Test ModbusTCP Slave](https://github.com/stepan-ko/TestModbusSlave)
+- [**WindowsForm .NET Core**](https://github.com/stepan-ko/TestModbusSlave): симулятор работы ModbusTCP Seerver.  
   
 ## Используемые инструменты и технологии
 
