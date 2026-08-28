@@ -26,5 +26,6 @@
 - Entity Framework (EF)
 - CommunityToolkit.Mvvm
 
-## Посотреть [моё резюме](https://krasnodar.hh.ru/resume/03688603ff103fe68d0039ed1f467547736767) на hh.ru
+
+.[Моё резюме](https://krasnodar.hh.ru/resume/03688603ff103fe68d0039ed1f467547736767) на hh.ru
 
