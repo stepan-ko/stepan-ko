@@ -11,6 +11,8 @@
   
 - [**ASP.NET сервис**](https://github.com/stepan-ko/web) распознавания госномеров на видеопотоке, запись в БД.  
   
+- [**ASP.NET Генератор PDF**](https://github.com/stepan-ko/InvocePDF) актов и счетов по указанным данным.
+  
 - [**WindowsForm приложение**](https://github.com/stepan-ko/ClientCompuWeigh) для работы с весами, обмен данными по ModbusTCP.  
 
 - [**Avalonia приложение**](https://github.com/stepan-ko/ClientWeight) кроссплатформенная модернизированная версия программы для работы с весами.  
