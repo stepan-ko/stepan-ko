@@ -3,7 +3,7 @@
 ## Основные технологии
 
 - **C#**
-- **.NET**
+- **.NET Core**
 - **AvaloniaUI**
 - **PostgreSQL**
 
