@@ -4,6 +4,7 @@
 
 - **C#**
 - **.NET Core**
+- **ASP.NET Core**
 - **AvaloniaUI**
 - **PostgreSQL**
 
@@ -17,13 +18,14 @@
 
 - [**Avalonia приложение**](https://github.com/stepan-ko/ClientWeight) кроссплатформенная модернизированная версия программы для работы с весами.  
 
-- [**WindowsForm .NET Core**](https://github.com/stepan-ko/TestModbusSlave): симулятор работы ModbusTCP Seerver.  
+- [**.NET Core**](https://github.com/stepan-ko/TestModbusSlave): симулятор работы ModbusTCP Server.  
   
 ## Используемые инструменты и технологии
 
 - NLog
 - NModbus
 - Entity Framework (EF)
+- Dependency injection (DI)
 - CommunityToolkit.Mvvm
 
 
