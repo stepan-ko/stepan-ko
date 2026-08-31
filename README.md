@@ -36,7 +36,8 @@
 ### Networking & Integration
 
 * **TCP/IP**
-* **Modbus TCP/NModbus**
+* **Modbus TCP**
+* **NModbus**
 * REST API
 
 ### Video & Computer Vision
