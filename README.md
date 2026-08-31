@@ -1,26 +1,29 @@
-# Кононов Степан — C# / .NET Developer
+# Кононов Степан — C# / .NET Backend Developer
 
-Разработчик программных решений на **C# / .NET** с опытом создания backend-, desktop- и интеграционных приложений.
+Разработчик на **C# / .NET** с опытом создания backend-, desktop- и интеграционных приложений.
 
-Основные направления: **ASP.NET Core, PostgreSQL, Avalonia UI, MVVM, Modbus TCP, промышленное оборудование, обработка видеопотоков.**
+Основной профиль — **ASP.NET Core, Web API, PostgreSQL, Entity Framework Core и фоновые сервисы**.
+
+Дополнительный опыт — **Avalonia UI / MVVM, TCP/IP, Modbus TCP, Linux, Docker, FFmpeg и OpenCV**, включая интеграцию программного обеспечения с промышленным оборудованием и обработку видеопотоков.
 
 ## Основные технологии
 
 ### Backend
 
 * **C#**
-* **.NET 8/9/10**
+* **.NET**
 * **ASP.NET Core**
 * **Web API / REST**
 * **Entity Framework Core**
 * **LINQ**
 * **Dependency Injection**
 * **BackgroundService**
+* **async/await**
 
 ### Database
 
 * **PostgreSQL**
-* **MS SQL**
+* **Firebird**
 * **SQL**
 
 ### Desktop
@@ -28,20 +31,20 @@
 * **Avalonia UI**
 * **MVVM**
 * **CommunityToolkit.Mvvm**
+* Windows Forms
 
 ### Networking & Integration
 
 * **TCP/IP**
 * **Modbus TCP**
-* **REST API**
-* **JSON / XML**
+* REST API
 
 ### Video & Computer Vision
 
 * **FFmpeg**
 * **OpenCV / OpenCvSharp**
 * **RTSP**
-* **LPR**
+* LPR
 
 ### Infrastructure & Tools
 
@@ -54,19 +57,16 @@
 
 ### [ASP.NET сервис распознавания госномеров](https://github.com/stepan-ko/web)
 
-Серверная система обработки видеопотоков и распознавания автомобильных номеров.
+Backend-система обработки видеопотоков и распознавания автомобильных номеров.
 
-* ASP.NET Core
-* BackgroundService
-* PostgreSQL
-* Entity Framework Core
-* REST API
-* FFmpeg
-* OpenCV / OpenCvSharp
-* RTSP
-* Linux
+**Стек:** C#, ASP.NET Core, PostgreSQL, Entity Framework Core, BackgroundService, REST API, FFmpeg, OpenCV, RTSP, Linux.
 
-Обработка видеопотоков, распознавание и фильтрация номерных знаков, сохранение результатов и кадров в БД.
+* Получение и обработка RTSP-видеопотоков.
+* Фоновая обработка видеоданных.
+* Распознавание и фильтрация номерных знаков.
+* Сохранение результатов и кадров в PostgreSQL.
+* REST API для взаимодействия с внешними системами.
+* Работа с native-библиотеками Linux.
 
 ---
 
@@ -74,15 +74,15 @@
 
 Кроссплатформенное desktop-приложение для работы с промышленными весами.
 
-* C#
-* .NET
-* **Avalonia UI**
-* **MVVM**
-* **CommunityToolkit.Mvvm**
-* **Modbus TCP**
-* Dependency Injection
+**Стек:** C#, .NET, Avalonia UI, MVVM, CommunityToolkit.Mvvm, Modbus TCP, Dependency Injection.
 
-Реализовано взаимодействие с промышленным оборудованием, чтение и запись Modbus-регистров, фоновый опрос состояния, выполнение команд и управление подключением.
+* Реализация MVVM-архитектуры.
+* Взаимодействие с промышленным оборудованием по Modbus TCP.
+* Чтение и запись регистров.
+* Фоновый опрос состояния оборудования.
+* Асинхронное выполнение операций.
+* Управление подключением и переподключением.
+* Разделение логики приложения и работы с оборудованием.
 
 ---
 
@@ -90,45 +90,28 @@
 
 Desktop-приложение для работы с промышленными весами.
 
-* C#
-* Windows Forms
-* Modbus TCP
+**Стек:** C#, Windows Forms, Modbus TCP.
 
-Обмен данными с оборудованием и управление параметрами весов.
+Реализация обмена данными с оборудованием, логирование ключевых операций, управление параметрами весов.
 
 ---
 
 ### [TestModbusSlave](https://github.com/stepan-ko/TestModbusSlave)
 
-Симулятор **Modbus TCP Server** для разработки и тестирования приложений, работающих с промышленным оборудованием.
+Симулятор **Modbus TCP Server** для разработки и тестирования приложений, взаимодействующих с промышленным оборудованием.
 
-Используется для тестирования клиентов Modbus без физического подключения к оборудованию.
+Позволяет тестировать клиентские приложения без физического подключения к Modbus Slave - оборудованию.
 
 ---
 
 ### [ASP.NET Генератор PDF](https://github.com/stepan-ko/InvocePDF)
 
-ASP.NET приложение для формирования PDF-документов — актов и счетов по введенным данным.
+ASP.NET приложение для формирования PDF-документов — актов и счетов по введённым данным.
 
-## Опыт и направления
-
-* Backend-разработка на C# / .NET
-* Разработка ASP.NET Core Web API
-* Desktop-разработка на Avalonia UI
-* MVVM
-* PostgreSQL / SQL
-* Интеграция с промышленным оборудованием
-* TCP/IP и Modbus TCP
-* Фоновые и асинхронные задачи
-* Обработка видеопотоков
-* FFmpeg / OpenCV
-* Linux
-* Docker
+**Стек:** C#, ASP.NET Core, PDF generation.
 
 ## Контакты
 
-[Моё резюме на HH.ru](https://krasnodar.hh.ru/resume/03688603ff103fe68d0039ed1f467547736767)
+[Резюме на HH.ru](https://krasnodar.hh.ru/resume/03688603ff103fe68d0039ed1f467547736767)
 
 E-mail: [kononov_stepan@mail.ru](mailto:kononov_stepan@mail.ru)
-
-  
